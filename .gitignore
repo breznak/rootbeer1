@@ -7,11 +7,11 @@ output-class/
 output-jar/
 output-jimple/
 output.jar
-glob:generated.cu
+generated.cu
 glob:generated.c
 glob:native/NativeCpuDevice.o
 glob:native/generated.o
-glob:Rootbeer.jar
+Rootbeer.jar
 glob:native/Handles.o
 glob:code_file.cubin
 glob:native/Cuda2DeviceMemory.o
