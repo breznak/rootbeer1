@@ -49,6 +49,10 @@ This work is supported by the National Science Foundation.
 You need to have the CUDA Toolkit and CUDA Driver installed to use Rootbeer.
 Download it from http://www.nvidia.com/content/cuda/cuda-downloads.html
 
+If you do not have nVidia GPU you still can develop and test your code with CUDA emulation: 
+ *) cuda -deviceemu  : compile cuda with "-deviceemu", (deprecated)
+ *) gpuOcelot : to run nVidia CUDA emulation on any CPU or AMD GPUs, Linux/Windows
+
 ## Twitter
 
 Rootbeer announcements are pushed to @rootbeer_gpu
